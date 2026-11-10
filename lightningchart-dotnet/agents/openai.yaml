@@ -1,0 +1,7 @@
+interface:
+  display_name: "LightningChart .NET"
+  short_description: "Accurate LightningChart .NET charting guidance"
+  default_prompt: "Use $lightningchart-dotnet to create high-performing and interactive data visualization components."
+
+policy:
+  allow_implicit_invocation: true
