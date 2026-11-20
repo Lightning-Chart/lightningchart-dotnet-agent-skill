@@ -9,7 +9,7 @@ task-specific documentation and API URLs found there. This helps prevent
 hallucinated method names, stale package names, wrong option shapes, and API
 patterns copied from unrelated charting libraries.
 
-**For latest user guides on LightningChart .NET and AI, please refer to the [Developer Documentation](https://lightningchart.com/net-charts/docs/lightningChart-and-ai/)**
+**For latest user guides on LightningChart .NET and AI, please refer to the [Developer Documentation](https://lightningchart.com/net-charts/docs/lightningchart-and-ai/)**
 
 ## Installation
 
